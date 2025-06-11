@@ -7,8 +7,8 @@ from sklearn.impute import IterativeImputer
 from sklearn.linear_model import BayesianRidge
 from sklearn.ensemble import RandomForestRegressor
 
-CLIENT_ID = 161912
-CLIENT_SECRET = 'e4432ce21b2f2a494e3b00eea24b3e1c135b1631'
+CLIENT_ID = [id]
+CLIENT_SECRET = [secret]
 REDIRECT_URI = 'http://localhost/exchange_token'
 REQUEST_DELAY = 15
 
